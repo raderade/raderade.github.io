@@ -3,7 +3,7 @@ test site
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>namaste</h1>
+<p>beginer project.</p>
 </body>
 </html>
